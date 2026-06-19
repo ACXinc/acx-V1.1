@@ -2,7 +2,11 @@
 
 :root {
   --background: #ffffff;
-  --foreground: #171717;
+  --foreground: #111111;
+
+  --gold: #D4AF37;
+  --black: #000000;
+  --white: #ffffff;
 }
 
 @theme inline {

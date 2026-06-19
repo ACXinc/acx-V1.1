@@ -4,6 +4,8 @@ import Services from "@/components/sections/Services";
 import WhyACX from "@/components/sections/WhyACX";
 import CTA from "@/components/sections/CTA";
 import Projects from "@/components/sections/Projects";
+import Testimonials from "@/components/sections/Testimonials";
+import Portfolio from "@/components/sections/Portfolio";
 
 
 export default function Home() {
@@ -19,6 +21,10 @@ export default function Home() {
       <Services />
 
       <Projects />
+
+      <Portfolio />
+
+      <Testimonials />
 
       <WhyACX />
 

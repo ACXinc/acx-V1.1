@@ -42,7 +42,7 @@ export default function Services() {
 
     <section
       id="services"
-      className="bg-black text-white px-6 py-24"
+      className=" bg-black text-white px-6 py-24"
     >
 
 
